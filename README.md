@@ -1,4 +1,4 @@
-# AOS-2024
+# AOS_2024_P1
 Repository for AOS assignment p1
 
 Contains the following files:
